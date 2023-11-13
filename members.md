@@ -11,12 +11,29 @@ Becoming a member of the TAG, you will be regularly briefed via emal on group ac
 
 # Members
 
+<table>
 
-<ul>
+<thead>
+<tr>
+<td>
+Name
+</td>
+<td>
+Email
+</td>
+</tr>
+</thead>
+<tbody>
+<tr>
 {% for member in site.data.tag-mixtures-supporters-to-export %}
-  <li>
-      {{ member.name }}
-	  {{ member.surname }}
-  </li>
+<td>
+{{ member.name }}
+{{ member.surname }}
+</td>
+<td>
+({{member.email}})[mailto:{{member.email}}]
+</td>
 {% endfor %}
-</ul>
+</tr>
+</tbody>
+</table>
