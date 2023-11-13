@@ -34,14 +34,14 @@ Country
 {% for member in site.data.tag-mixtures-supporters-to-export %}
 <tr>
 <td>
-{% if member.web !="" %}
+{% if member.web !=" " %}
 <a href="{{ member.web }}">{{ member.name }} {{ member.surname }}</a>
 {% else %}
 {{ member.name }} {{ member.surname }}
 {% endif %}
 </td>
 <td>
-[{{ member.email }}](mailto:{{ member.email }})
+<a href="mailto:{{ member.email }}">{{ member.email }}</a>
 </td>
 <td>
 {{ member.affiliation }}
