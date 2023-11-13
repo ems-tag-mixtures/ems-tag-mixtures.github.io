@@ -6,7 +6,7 @@ permalink: /mission/
 
 <!-- [European Mathematical Society -- Topical Activity Group](https://euromathsoc.org/EMS-TAGs) -->
 
-# Introduction
+## Introduction
 
 The notion of mixture in continuum mechanics goes far beyond the concept of two stirred liquids. From a broader perspective the notion of mixture also covers systems such as solids infused by liquids or gases, solids made of different chemical compounds and so forth. The components of the mixtures can interact in many ways, typically mechanically, electrically or chemically, and the components can undergo phase transitions. Furthermore, the presence of the interfaces between the components/phases gives rise to a plethora of interfacial phenomena.
 
@@ -14,9 +14,9 @@ Given the diversity of various systems classified as mixtures, various mathemati
 
 The objective of the topical activity group is to provide a platform that will allow its members to, well, mix ideas about mixtures, and facilitate the spreading of breakthrough ideas across the mathematical community dealing with various aspects of mixture theory. From the mathematical perspective this means sharing ideas on physical background of the models (mathematical modelling), on qualitative and quantitative properties of governing partial differential equations (mathematical analysis) and on numerical solution thereof (numerical analysis, software).
 
-# Planned activities
+## Planned activities
 
-## Internal 
+### Internal 
 
 The group plans to establish a mailing list and a digital noticeboard. The objective is to share information on interesting events, faculty/postdoc/PhD vacancies and on partnership in academic/industrial projects. 
 
@@ -24,7 +24,7 @@ The group also shall provide support to organisers of various schools such as [E
 
 Finally, the group shall serve as a platform for discussions of future research directions and particular research projects proposals. The mass of experts gathered in the topical activity group shall also provide its members the most welcome feedback on to-be-submitted grant proposals, and thus contribute to the quality of research in the given field. 
 
-## External
+### External
 
 Many professional societies such as [European Mechanics Society](https://euromech.org/) or [European Society of Rheology](https://rheology-esr.org/) -- who can be seen as end users regarding the applications of mixture theory related mathematical methods -- offer some funding for organisation of specialised colloquia/meetings. The topical activity group shall apply for such a funding, and events of this kind should promote state-of-the-art mathematical techniques, in particular numerical methods, amongst the end users. On the other hand, the interaction with the researchers in mechanics/rheology/chemistry and so forth should bring new mathematical problems.
 
