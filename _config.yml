@@ -22,8 +22,6 @@ url: "https://ems-tag-mixtures.github.io" # the base hostname & protocol for you
 domain: "ems-tag-mixtures.github.io"
 github_username: vitprusa
 
-git@github.com:ems-tag-mixtures/.git
-
 # Build settings
 markdown: kramdown
 theme: minima
