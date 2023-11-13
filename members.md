@@ -54,3 +54,11 @@ Country
 </tbody>
 
 </table>
+
+
+
+| Name | Email | Affiliation | Country |
+| ---- | ---- | ---- | ---- |
+{% for member in site.data.tag-mixtures-supporters-to-export %}
+| (% if member.web !="" %} [{{ member.name }} {{ member.surname }}]({{ member.web }}) {% else %} {{ member.name }} {{ member.surname }} {% endif %} | [{{ member.email }}](mailto:{{ member.email }}) | {{ member.affiliation }} | {{ member.country }} | {% endfor %}
+
