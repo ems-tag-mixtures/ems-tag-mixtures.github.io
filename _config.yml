@@ -23,7 +23,7 @@ domain: "ems-tag-mixtures.github.io"
 github_username: vitprusa
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
