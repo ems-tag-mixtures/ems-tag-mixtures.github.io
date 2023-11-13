@@ -34,11 +34,10 @@ Country
 {% for member in site.data.tag-mixtures-supporters-to-export %}
 <tr>
 <td>
-{{ member.name }}
 {% if member.web !="" %}
-[{{ member.surname }}]({{ member.web }})
+[{{ member.name }} {{ member.surname }}]({{ member.web }})
 {% else %}
-{{ member.surname }}
+{{ member.name }} {{ member.surname }}
 {% endif %}
 </td>
 <td>
