@@ -21,6 +21,12 @@ Name
 <td>
 Email
 </td>
+<td>
+Affiliation
+</td>
+<td>
+Country
+</td>
 </tr>
 </thead>
 
@@ -29,10 +35,20 @@ Email
 <tr>
 <td>
 {{ member.name }}
+{% if member.web !="" %)
+[{{ member.surname }}]({{ member.web }})
+(% else %)
 {{ member.surname }}
+(% endif %)
 </td>
 <td>
-({{member.email}})[mailto:{{member.email}}]
+[{{ member.email }}](mailto:{{ member.email }})
+</td>
+<td>
+{{ member.affiliation }}
+</td>
+<td>
+{{ member.country }}
 </td>
 </tr>
 {% endfor %}
