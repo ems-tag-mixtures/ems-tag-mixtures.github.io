@@ -7,7 +7,7 @@ categories: news
 
 Dear colleagues,
 
-we have succeeded with a proposal on [Donatio Universitatis Carolinæ Chair Research Support](https://cuni.cz/UKEN-1898.html). This is project whose aim is to support (for a minimum period of six months and a maximum of two years) senior researchers coming to Charles University in Prague, Czech Republic. These researchers should boost the local research activity in a certain scientific field, and thanks to our activity, one of the chosen research fields is "Mathematical modelling of multicomponent systems". We will be soon searching for suitable candidates for the position, we will keep you updated. 
+we have succeeded with a proposal on [Donatio Universitatis Carolinæ Chair Research Support](https://cuni.cz/UKEN-1898.html). This is project whose aim is to support (for a minimum period of six months and a maximum of two years) senior researchers coming to Charles University in Prague, Czech Republic. These researchers should boost the local research activity in a certain scientific field, and thanks to our activity, one of the chosen research fields is **Mathematical modelling of multicomponent systems**. We will be soon searching for suitable candidates for the position, we will keep you updated. 
 
 Best wishes,
 Josef Málek and Vít Průša
