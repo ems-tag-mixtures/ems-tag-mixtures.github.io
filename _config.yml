@@ -16,7 +16,7 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 # in the templates via {{ site.myvariable }}.
 title: European Mathematical Society -- Task Activity Group -- Mixtures
 email: prusv@karlin.mff.cuni.cz
-description: >- Webpages of European Mathematical Society Task Activity Group Mixtures.
+description: Webpages of European Mathematical Society -- Task Activity Group -- Mixtures.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ems-tag-mixtures.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "ems-tag-mixtures.github.io"
