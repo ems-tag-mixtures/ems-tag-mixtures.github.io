@@ -35,11 +35,11 @@ Country
 <tr>
 <td>
 {{ member.name }}
-{% if member.web !="" %)
+{% if member.web !="" %}
 [{{ member.surname }}]({{ member.web }})
-(% else %)
+{% else %}
 {{ member.surname }}
-(% endif %)
+{% endif %}
 </td>
 <td>
 [{{ member.email }}](mailto:{{ member.email }})
