@@ -20,7 +20,7 @@ description: Webpages of European Mathematical Society -- Topical Activity Group
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ems-tag-mixtures.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "ems-tag-mixtures.github.io"
-github_username: vitprusa
+github_username: ems-tag-mixtures
 
 # Build settings
 markdown: GFM
