@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Donatio Universitatis Carolinæ Chair Research Support"
+title:  "EMS School Mathematical aspects of fluid flows"
 date:   2024-01-01 11:00:00 +0100
 categories: news
 ---
