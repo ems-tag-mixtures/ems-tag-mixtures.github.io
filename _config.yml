@@ -23,7 +23,7 @@ domain: "ems-tag-mixtures.github.io"
 github_username: ems-tag-mixtures
 
 # Build settings
-markdown: GFM
+#markdown: GFM
 theme: minima
 plugins:
   - jekyll-feed
