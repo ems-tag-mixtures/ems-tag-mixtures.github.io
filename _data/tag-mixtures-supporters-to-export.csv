@@ -1,44 +1,47 @@
-name,surname,email,affiliation,country,web
 Helmut,Abels,helmut.abels@mathematik.uni-regensburg.de,Univerity of Regensburg,Germany,https://www.uni-regensburg.de/mathematics/mathematics-abels/homepage/index.html
-Rémi,Abgrall,remi.abgrall@math.uzh.ch,Universtät Zürich,Switzerland,
-Luis,Almeida,luis.almeida@sorbonne-universite.fr,Sorbonne University,France,
+Rémi,Abgrall,remi.abgrall@math.uzh.ch,Universtät Zürich,Switzerland,https://scholar.google.fr/citations?user=pMpDDoQAAAAJ&hl=en
+Luis,Almeida,luis.almeida@sorbonne-universite.fr,Sorbonne University,France,https://www.ljll.fr/~almeida/
 Dieter,Bothe,bothe@mma.tu-darmstadt.de ,TU Darmstadt,Germany,https://www.mathematik.tu-darmstadt.de/fb/personal/details/dieter_bothe.en.jsp
 Miroslav,Bulíček,mbul8060@karlin.mff.cuni.cz,Charles University,Czech Republic,https://www2.karlin.mff.cuni.cz/~mbul8060/
 Clément,Cancès,clement.cances@inria.fr,INRIA Lille,France,http://chercheurs.lille.inria.fr/ccances/
-Bruno,Despres,bruno.despres@sorbonne-universite.fr,Sorbonne,France,
-Michael,Dumbser,michael.dumbser@unitn.it,Unitersity of Trento,Italy,
+Bruno,Despres,bruno.despres@sorbonne-universite.fr,Sorbonne,France,https://www.ljll.fr/despres/
+Michael,Dumbser,michael.dumbser@unitn.it,Unitersity of Trento,Italy,https://scholar.google.com/citations?user=O2TStRsAAAAJ&hl=de
 Virginie,Ehrlacher,virginie.ehrlacher@enpc.fr,INRIA,France,https://team.inria.fr/matherials/team-members/virginie-ehrlacher-galland/
 Patrick,Farrell,patrick.farrell@maths.ox.ac.uk,Oxford,United Kingdom,https://pefarrell.org/
 Jürgen,Fuhrmann,juergen.fuhrmann@wias-berlin.de,WIAS,Germany,https://www.wias-berlin.de/people/fuhrmann/
-Sergey,Gavrilyuk,sergey.gavrilyuk@univ-amu.fr,Aix Marseille,France,
-Vincent,Giovangigli,vincent.giovangigli@polytechnique.fr,Ecole Polytechnique,France,
-Maurizio,Grasselli,maurizio.grasselli@polimi.it,Politecnico di Milano,Italy,
+Sergey,Gavrilyuk,sergey.gavrilyuk@univ-amu.fr,Aix Marseille,France,https://scholar.google.fr/citations?user=Z_yY1gsAAAAJ&hl=en
+Andrea,Giorgini,andrea.giorgini@polimi.it,Politecnico di Milano,Italy,https://giorgini.faculty.polimi.it/
+Vincent,Giovangigli,vincent.giovangigli@polytechnique.fr,Ecole Polytechnique,France,http://www.cmap.polytechnique.fr/~giovangi/homea.html
+Maurizio,Grasselli,maurizio.grasselli@gmail.com,Politecnico di Milano,Italy,https://scholar.google.com/citations?user=IEQ1_poAAAAJ&hl=en
 Piotr,Gwiazda,pgwiazda@mimuw.edu.pl,IMPAN,Poland,https://www.mimuw.edu.pl/habilitacje/piotr-gwiazda
-Martin,Heida,martin.heida@wias-berlin.de,WIAS,Germany,
+Martin,Heida,martin.heida@wias-berlin.de,WIAS,Germany,https://scholar.google.de/citations?user=Ykfu9f4AAAAJ&hl=de
 Katharina,Hopf,hopf@wias-berlin.de,WIAS,Germany,https://www.wias-berlin.de/people/hopf/research.jsp
 Jaroslav,Hron,hron@karlin.mff.cuni.cz,Charles University,Czech Republic,https://www2.karlin.mff.cuni.cz/~hron/
 Ansgar,Jüngel,juengel@tuwien.ac.at,TU Vienna,Austria,https://www.asc.tuwien.ac.at/~juengel/
 Richard,Katz,richard.katz@earth.ox.ac.uk,University of Oxford,United Kingdom,https://www.earth.ox.ac.uk/people/richard-katz/
 Václav,Klika,vaclav.klika@cvut.cz,Czech Technical University,Czech Republic,https://vaclavklika.wixsite.com/website
-Maria,Lukacova,lukacova@uni-mainz.de,University of Mainz,Germany,
+Kars,Knook,Kars.Knook@maths.ox.ac.uk,University of Oxford,United Kingdom,https://www.maths.ox.ac.uk/people/kars.knook
+Maria,Lukacova,lukacova@uni-mainz.de,University of Mainz,Germany,https://scholar.google.com/citations?user=r-_9v2UAAAAJ&hl=en
 Josef,Málek,malek@karlin.mff.cuni.cz,Charles University,Czech Republic,https://www2.karlin.mff.cuni.cz/~malek
 Piotr,Minakowski,piotr.minakowski@ovgu.de,Otto von Guericke Uni Magdeburg,Germany,https://www.math.uni-magdeburg.de/~minak/
-Alexei,Orozco,alexei.gazca@mathematik.uni-freiburg.de,University of Freiburg,Germany,
+Alexei,Orozco,alexei.gazca@mathematik.uni-freiburg.de,University of Freiburg,Germany,https://gazcaorozco.github.io/home/
 Michal,Pavelka,pavelka@karlin.mff.cuni.cz,Charles University,Czech Republic,https://www2.karlin.mff.cuni.cz/~pavelka/
 Benoit,Perthame,benoit.perthame@ljll.math.upmc.fr,Sorbonne-Université,France,https://www.ljll.math.upmc.fr/perthame/
 Ilya,Peshkov,ilya.peshkov@unitn.it,Unitersity of Trento,Italy,https://scholar.google.ca/citations?user=UkToBVwAAAAJ&hl=en
 Tomas,Piasecky,t.piasecki@mimuw.edu.pl,Warsaw,Poland,https://scholar.google.pl/citations?user=e8nZaeEAAAAJ&hl=pl
 Milan,Pokorný,pokorny@karlin.mff.cuni.cz,Charles University,Czech Republic,https://www2.karlin.mff.cuni.cz/~pokorny/
 Vít,Průša,prusv@karlin.mff.cuni.cz,Charles University,Czech Republic,https://www2.karlin.mff.cuni.cz/~prusv
-Gabriela,Puppo,gabriella.puppo@uniroma1.it,La Sapienza Università di Roma,Italy,
+Gabriela,Puppo,gabriella.puppo@uniroma1.it,La Sapienza Università di Roma,Italy,http://gabriellapuppo.it/
 Christian,Rohde,christian.rohde@mathematik.uni-stuttgart.de,University of Stuttgart,Germany,https://www.ians.uni-stuttgart.de/institute/team/Rohde-00002/
 Evgeniy,Romenski,e.romenski@gmail.com,Sobolev Institute,Russia,https://www.researchgate.net/profile/Evgeniy-Romenski
-Richard,Saurel,richard.saurel@univ-amu.fr,Aix Marseille,France,
+Richard,Saurel,richard.saurel@univ-amu.fr,Aix Marseille,France,https://scholar.google.fr/citations?user=wAJTOkUAAAAJ&hl=en
+Luca,Scarpa,luca.scarpa@polimi.it,Politecnico di Milano,Italy,https://sites.google.com/view/lucascarpa/home
+Andrea,Signori,andrea.signori@polimi.it,Politecnico di Milano,Italy,https://signori.faculty.polimi.it/
 Ondřej,Souček,soucek@karel.troja.mff.cuni.cz,Charles University,Czech Republic,http://geo.mff.cuni.cz/users/soucek/
 Agnieszka,Świerczewska-Gwiazda,a.swierczewska-gwiaz@uw.edu.pl,University of Warsaw,Poland,https://www.mimuw.edu.pl/~aswiercz/
-Ferdinand,Thein,ferdinand.thein@ovgu.de,Aachen,Germany,
-Andrea,Thomann,athomann@uni-mainz.de,Mainz,Germany,
-Lorenzi,Tommaso,tommaso.lorenzi@polito.it,Politecnico di Torino,Italy,
+Ferdinand,Thein,ferdinand.thein@ovgu.de,Aachen,Germany,https://www.igpm.rwth-aachen.de/team/thein
+Andrea,Thomann,athomann@uni-mainz.de,Mainz,Germany,https://irma.math.unistra.fr/~thomann/
+Lorenzi,Tommaso,tommaso.lorenzi@polito.it,Politecnico di Torino,Italy,https://staff.polito.it/tommaso.lorenzi/
 Karel,Tůma,ktuma@karlin.mff.cuni.cz,Charles University,Czech Republic,https://www2.karlin.mff.cuni.cz/~tumak3am/
 Petr,Vágner,petr.vagner@wias-berlin.de,WIAS,Germany,https://wias-berlin.de/~vagner/?lang=1
 Nicola,Zamponi,nicola.zamponi@tuwien.ac.at,TU Vienna,Austria,https://www.asc.tuwien.ac.at/~nzamponi/
