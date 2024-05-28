@@ -1,10 +1,16 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
 /* https://github.com/AppliedLogicSystems/ALSProlog/tree/master/docs */
 /* https://talk.jekyllrb.com/t/how-to-add-a-logo-to-minima-theme/4120 */
     
 .site-title::before {
-	content: url("/EMS-Logo-RGB_TransparentBG_Blue_01_Primary.png");
+	content: url("EMS-Logo-RGB_TransparentBG_Blue_01_Primary-SMALL.png");
 	display: inline-block;
 	position: relative;
-	width: 37px;
-	top: 5px;
+	height: 37px;
+	top: 10px;
 }
