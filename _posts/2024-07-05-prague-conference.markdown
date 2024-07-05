@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TAG Meeting -- Prague meeting"
+title:  "TAG Meeting -- Prague 2025"
 date:   2024-07-05 11:00:00 +0100
 categories: news
 ---
