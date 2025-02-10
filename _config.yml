@@ -16,7 +16,7 @@ gem "github-pages", "~> 228", group: :jekyll_plugins
 # in the templates via {{ site.myvariable }}.
 title: EMS Topical Activity Group -- Mixtures
 email: prusv@karlin.mff.cuni.cz
-description: Webpages of European Mathematical Society -- Topicale Activity Group -- Mixtures. The group objective is to foster the integration of scientific cooperation in mathematical modelling of multicomponent systems -- mixtures.
+description: Webpages of European Mathematical Society -- Topical Activity Group -- Mixtures. The group objective is to foster the integration of scientific cooperation in mathematical modelling of multicomponent systems -- mixtures.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ems-tag-mixtures.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "ems-tag-mixtures.github.io"
