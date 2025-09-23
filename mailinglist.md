@@ -30,3 +30,8 @@ unsubscribe ems-tag-mixtures
 ```
 and leave the message body empty. The email robot will send you a message showing the status of your request. The robot answers in French only, but you will manage.
 
+## Send message
+
+Just send your email to `ems-tag-mixtures@listes.math.cnrs.fr`.
+
+
