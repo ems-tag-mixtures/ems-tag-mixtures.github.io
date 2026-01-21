@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "15th AIMS Conference -- session `Mixtures: Modeling, analysis and computing`"
+title:  "15th AIMS Conference -- session Mixtures: Modeling, analysis and computing"
 date:   2026-01-21 12:00:00 +0100
 categories: news
 ---
